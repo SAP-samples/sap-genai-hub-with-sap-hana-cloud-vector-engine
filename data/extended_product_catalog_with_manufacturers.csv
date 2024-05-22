@@ -1,0 +1,101 @@
+Product ID,Product Name,Category,Description,Unit Price,Unit of Measure,Supplier ID,Supplier Name,Supplier Warehouse Location,Supplier Warehouse Address,Availability days,Minimum Order Quantity,Stock Quantity,Currency,Manufacturer
+P_0046,Ergonomic Keyboard,IT Accessories,"Portable SSD with 1TB capacity, USB 3.2",159.04,Each,S152,DeskoFlex,Germany,"133 Main Street, Essen, Germany",6,25,289,EURO,Bti
+P_0047,USB-C Docking Station,IT Accessories,Wireless mouse with multi-device connectivity,131.53,Each,S167,DeskoFlex,Germany,"45 Main Street, Essen, Germany",14,24,416,EURO,base Xx
+P_0048,Webcam HD,IT Accessories,Metal monitor stand with storage drawer,269.1,Each,S155,KeyTech Inc.,Germany,"69 Main Street, Hamburg, Germany",5,6,566,EURO,Apple
+P_0049,Ergonomic Keyboard,IT Accessories,Bluetooth ergonomic keyboard with customizable keys,276.88,Each,S112,KeyTech Inc.,Germany,"120 Main Street, Hamburg, Germany",13,32,74,EURO,3m
+P_0050,Ergonomic Keyboard,IT Accessories,Metal monitor stand with storage drawer,95.23,Each,S126,StandSolutions,Germany,"63 Main Street, Düsseldorf, Germany",6,8,219,EURO,Apple
+P_0051,Webcam HD,IT Accessories,Wireless mouse with multi-device connectivity,44.52,Each,S176,MouseWare,Germany,"161 Main Street, Leipzig, Germany",7,6,213,EURO,base Xx
+P_0052,Wireless Mouse,IT Accessories,Bluetooth ergonomic keyboard with customizable keys,295.93,Each,S158,StandSolutions,Germany,"150 Main Street, Dortmund, Germany",13,23,735,EURO,Cherry
+P_0053,Noise Cancelling Headphones,IT Accessories,1080p HD webcam with privacy shutter,285.65,Each,S133,QuietSpace,Germany,"5 Main Street, Leipzig, Germany",3,23,666,EURO,Cherry
+P_0054,Standing Desk,Office,Metal monitor stand with storage drawer,44.19,Each,S162,ConnectTech,Germany,"135 Main Street, Frankfurt, Germany",8,17,548,EURO,Articona
+P_0055,Noise Cancelling Headphones,IT Accessories,Metal monitor stand with storage drawer,97.2,Each,S184,QuietSpace,Germany,"163 Main Street, Munich, Germany",5,26,680,EURO,Logitech
+P_0056,Ergonomic Keyboard,IT Accessories,Adjustable height standing desk with memory settings,181.07,Each,S119,SpeedStorage,Germany,"65 Main Street, Frankfurt, Germany",3,47,515,EURO,Acer
+P_0057,Webcam HD,IT Accessories,1080p HD webcam with privacy shutter,283.49,Each,S158,StandSolutions,Germany,"118 Main Street, Stuttgart, Germany",8,19,703,EURO,Cherry
+P_0058,Ergonomic Keyboard,IT Accessories,USB-C docking station with multiple ports,287.38,Each,S136,KeyTech Inc.,Germany,"111 Main Street, Dortmund, Germany",11,49,70,EURO,Apple
+P_0059,Portable SSD,IT Accessories,1080p HD webcam with privacy shutter,68.42,Each,S186,QuietSpace,Germany,"14 Main Street, Hamburg, Germany",6,46,208,EURO,Acer
+P_0060,Webcam HD,IT Accessories,1080p HD webcam with privacy shutter,132.67,Each,S168,ConnectTech,Germany,"46 Main Street, Düsseldorf, Germany",2,46,822,EURO,3m
+P_0061,Wireless Mouse,IT Accessories,Over-ear noise cancelling headphones with microphone,52.8,Each,S143,StandSolutions,Germany,"28 Main Street, Stuttgart, Germany",5,30,134,EURO,Case Logic
+P_0062,Webcam HD,IT Accessories,Wireless mouse with multi-device connectivity,286.87,Each,S152,StandSolutions,Germany,"28 Main Street, Dortmund, Germany",8,34,662,EURO,Cherry
+P_0063,Standing Desk,Office,Adjustable height standing desk with memory settings,175.91,Each,S123,KeyTech Inc.,Germany,"81 Main Street, Essen, Germany",7,47,497,EURO,Cherry
+P_0064,Standing Desk,Office,Bluetooth ergonomic keyboard with customizable keys,267.88,Each,S183,DeskoFlex,Germany,"124 Main Street, Hamburg, Germany",11,36,632,EURO,Apple
+P_0065,Portable SSD,IT Accessories,Over-ear noise cancelling headphones with microphone,82.74,Each,S160,QuietSpace,Germany,"152 Main Street, Berlin, Germany",6,37,881,EURO,Acer
+P_0066,Ergonomic Keyboard,IT Accessories,Metal monitor stand with storage drawer,28.15,Each,S166,StandSolutions,Germany,"112 Main Street, Dortmund, Germany",5,47,90,EURO,Cherry
+P_0067,Wireless Mouse,IT Accessories,Metal monitor stand with storage drawer,257.2,Each,S150,MouseWare,Germany,"112 Main Street, Dortmund, Germany",2,6,339,EURO,Articona
+P_0068,Portable SSD,IT Accessories,Over-ear noise cancelling headphones with microphone,114.87,Each,S111,SpeedStorage,Germany,"160 Main Street, Leipzig, Germany",7,8,125,EURO,Logitech
+P_0069,Noise Cancelling Headphones,IT Accessories,USB-C docking station with multiple ports,294.16,Each,S114,KeyTech Inc.,Germany,"147 Main Street, Cologne, Germany",2,22,169,EURO,Belkin
+P_0070,Standing Desk,Office,"Portable SSD with 1TB capacity, USB 3.2",175.84,Each,S180,ConnectTech,Germany,"20 Main Street, Dortmund, Germany",6,8,242,EURO,3dconnexion
+P_0071,Monitor Stand,IT Accessories,"Portable SSD with 1TB capacity, USB 3.2",196.44,Each,S176,DeskoFlex,Germany,"39 Main Street, Stuttgart, Germany",13,37,18,EURO,Logitech
+P_0072,Webcam HD,IT Accessories,Bluetooth ergonomic keyboard with customizable keys,183.45,Each,S128,SpeedStorage,Germany,"131 Main Street, Düsseldorf, Germany",6,32,893,EURO,Acer
+P_0073,Wireless Mouse,IT Accessories,Metal monitor stand with storage drawer,258.9,Each,S125,SpeedStorage,Germany,"193 Main Street, Dortmund, Germany",9,49,769,EURO,Belkin
+P_0074,USB-C Docking Station,IT Accessories,Adjustable height standing desk with memory settings,143.48,Each,S133,StandSolutions,Germany,"5 Main Street, Frankfurt, Germany",7,47,226,EURO,3dconnexion
+P_0075,Webcam HD,IT Accessories,Over-ear noise cancelling headphones with microphone,239.59,Each,S191,QuietSpace,Germany,"96 Main Street, Stuttgart, Germany",12,28,300,EURO,Bti
+P_0076,USB-C Docking Station,IT Accessories,Adjustable height standing desk with memory settings,242.8,Each,S163,DeskoFlex,Germany,"129 Main Street, Hamburg, Germany",8,40,200,EURO,Apple
+P_0077,Noise Cancelling Headphones,IT Accessories,Adjustable height standing desk with memory settings,286.01,Each,S110,VisionCam,Germany,"112 Main Street, Hamburg, Germany",9,19,32,EURO,Articona
+P_0078,Portable SSD,IT Accessories,"Portable SSD with 1TB capacity, USB 3.2",178.22,Each,S186,StandSolutions,Germany,"116 Main Street, Stuttgart, Germany",12,11,818,EURO,Cherry
+P_0079,Monitor Stand,IT Accessories,1080p HD webcam with privacy shutter,109.75,Each,S149,KeyTech Inc.,Germany,"96 Main Street, Cologne, Germany",2,30,630,EURO,3m
+P_0080,Noise Cancelling Headphones,IT Accessories,Adjustable height standing desk with memory settings,39.99,Each,S186,MouseWare,Germany,"68 Main Street, Munich, Germany",8,36,356,EURO,3dconnexion
+P_0081,Ergonomic Keyboard,IT Accessories,1080p HD webcam with privacy shutter,263.44,Each,S137,StandSolutions,Germany,"109 Main Street, Düsseldorf, Germany",9,8,831,EURO,Articona
+P_0082,Standing Desk,Office,"Portable SSD with 1TB capacity, USB 3.2",149.41,Each,S150,DeskoFlex,Germany,"110 Main Street, Leipzig, Germany",13,19,68,EURO,Cherry
+P_0083,Monitor Stand,IT Accessories,"Portable SSD with 1TB capacity, USB 3.2",119.07,Each,S134,StandSolutions,Germany,"121 Main Street, Munich, Germany",3,9,413,EURO,3m
+P_0084,Wireless Mouse,IT Accessories,1080p HD webcam with privacy shutter,27.31,Each,S126,KeyTech Inc.,Germany,"52 Main Street, Essen, Germany",13,11,138,EURO,Bti
+P_0085,Ergonomic Keyboard,IT Accessories,"Portable SSD with 1TB capacity, USB 3.2",169.2,Each,S162,QuietSpace,Germany,"90 Main Street, Frankfurt, Germany",13,6,207,EURO,Bti
+P_0086,Standing Desk,Office,Metal monitor stand with storage drawer,235.42,Each,S142,KeyTech Inc.,Germany,"195 Main Street, Leipzig, Germany",1,21,197,EURO,Apple
+P_0087,Ergonomic Keyboard,IT Accessories,Metal monitor stand with storage drawer,242.47,Each,S117,StandSolutions,Germany,"82 Main Street, Munich, Germany",8,25,403,EURO,Logitech
+P_0088,Standing Desk,Office,"Portable SSD with 1TB capacity, USB 3.2",222.91,Each,S121,QuietSpace,Germany,"177 Main Street, Essen, Germany",6,22,853,EURO,Articona
+P_0089,Standing Desk,Office,Adjustable height standing desk with memory settings,43.51,Each,S196,VisionCam,Germany,"102 Main Street, Cologne, Germany",7,45,411,EURO,3dconnexion
+P_0090,Wireless Mouse,IT Accessories,"Portable SSD with 1TB capacity, USB 3.2",106.05,Each,S179,VisionCam,Germany,"132 Main Street, Essen, Germany",4,27,102,EURO,Articona
+P_0091,Webcam HD,IT Accessories,Wireless mouse with multi-device connectivity,135.47,Each,S133,DeskoFlex,Germany,"176 Main Street, Frankfurt, Germany",14,28,609,EURO,Apple
+P_0092,Portable SSD,IT Accessories,Over-ear noise cancelling headphones with microphone,78.65,Each,S179,KeyTech Inc.,Germany,"104 Main Street, Cologne, Germany",4,22,119,EURO,Acer
+P_0093,Webcam HD,IT Accessories,Wireless mouse with multi-device connectivity,280.34,Each,S152,MouseWare,Germany,"154 Main Street, Leipzig, Germany",2,14,70,EURO,3dconnexion
+P_0094,Noise Cancelling Headphones,IT Accessories,"Portable SSD with 1TB capacity, USB 3.2",280.34,Each,S195,ConnectTech,Germany,"146 Main Street, Düsseldorf, Germany",3,23,199,EURO,3dconnexion
+P_0095,Ergonomic Keyboard,IT Accessories,Metal monitor stand with storage drawer,93.99,Each,S130,StandSolutions,Germany,"178 Main Street, Munich, Germany",5,24,108,EURO,Case Logic
+P_0096,Webcam HD,IT Accessories,Adjustable height standing desk with memory settings,238.14,Each,S153,VisionCam,Germany,"183 Main Street, Dortmund, Germany",8,34,979,EURO,Case Logic
+P_0097,Noise Cancelling Headphones,IT Accessories,USB-C docking station with multiple ports,114.5,Each,S108,QuietSpace,Germany,"146 Main Street, Munich, Germany",5,22,275,EURO,3dconnexion
+P_0098,Webcam HD,IT Accessories,Metal monitor stand with storage drawer,212.33,Each,S192,KeyTech Inc.,Germany,"115 Main Street, Stuttgart, Germany",13,20,236,EURO,Bti
+P_0099,Standing Desk,Office,Wireless mouse with multi-device connectivity,156.13,Each,S112,StandSolutions,Germany,"90 Main Street, Cologne, Germany",13,23,427,EURO,Cherry
+P_0100,Ergonomic Keyboard,IT Accessories,Adjustable height standing desk with memory settings,165.47,Each,S120,StandSolutions,Germany,"117 Main Street, Frankfurt, Germany",12,43,206,EURO,Apple
+P_0101,Webcam HD,IT Accessories,Adjustable height standing desk with memory settings,283.68,Each,S192,SpeedStorage,Germany,"19 Main Street, Munich, Germany",13,30,455,EURO,Cherry
+P_0102,Webcam HD,IT Accessories,Adjustable height standing desk with memory settings,188.76,Each,S163,StandSolutions,Germany,"160 Main Street, Dortmund, Germany",4,37,869,EURO,Case Logic
+P_0103,Monitor Stand,IT Accessories,1080p HD webcam with privacy shutter,250.43,Each,S156,StandSolutions,Germany,"24 Main Street, Berlin, Germany",14,11,730,EURO,Articona
+P_0104,Standing Desk,Office,1080p HD webcam with privacy shutter,262.96,Each,S193,VisionCam,Germany,"84 Main Street, Stuttgart, Germany",8,32,211,EURO,Logitech
+P_0105,Ergonomic Keyboard,IT Accessories,Over-ear noise cancelling headphones with microphone,92.53,Each,S142,DeskoFlex,Germany,"29 Main Street, Hamburg, Germany",1,26,437,EURO,3m
+P_0106,Ergonomic Keyboard,IT Accessories,1080p HD webcam with privacy shutter,106.72,Each,S108,StandSolutions,Germany,"116 Main Street, Dortmund, Germany",9,25,316,EURO,Logitech
+P_0107,Ergonomic Keyboard,IT Accessories,Adjustable height standing desk with memory settings,47.4,Each,S161,SpeedStorage,Germany,"42 Main Street, Berlin, Germany",13,25,119,EURO,Bti
+P_0108,Noise Cancelling Headphones,IT Accessories,Adjustable height standing desk with memory settings,54.52,Each,S123,QuietSpace,Germany,"13 Main Street, Düsseldorf, Germany",5,35,617,EURO,Acer
+P_0109,Noise Cancelling Headphones,IT Accessories,Adjustable height standing desk with memory settings,114.18,Each,S158,QuietSpace,Germany,"35 Main Street, Cologne, Germany",1,47,336,EURO,Logitech
+P_0110,Portable SSD,IT Accessories,1080p HD webcam with privacy shutter,280.4,Each,S158,MouseWare,Germany,"112 Main Street, Leipzig, Germany",5,46,404,EURO,Bti
+P_0111,Wireless Mouse,IT Accessories,Bluetooth ergonomic keyboard with customizable keys,34.75,Each,S148,SpeedStorage,Germany,"196 Main Street, Frankfurt, Germany",13,32,104,EURO,base Xx
+P_0112,Monitor Stand,IT Accessories,Wireless mouse with multi-device connectivity,178.76,Each,S129,VisionCam,Germany,"101 Main Street, Leipzig, Germany",6,16,790,EURO,Logitech
+P_0113,Noise Cancelling Headphones,IT Accessories,Metal monitor stand with storage drawer,93.42,Each,S125,MouseWare,Germany,"126 Main Street, Cologne, Germany",3,9,469,EURO,Case Logic
+P_0114,Wireless Mouse,IT Accessories,Bluetooth ergonomic keyboard with customizable keys,69.62,Each,S173,VisionCam,Germany,"48 Main Street, Cologne, Germany",8,16,909,EURO,Logitech
+P_0115,USB-C Docking Station,IT Accessories,Adjustable height standing desk with memory settings,283.13,Each,S128,SpeedStorage,Germany,"111 Main Street, Hamburg, Germany",12,22,60,EURO,Acer
+P_0116,Webcam HD,IT Accessories,"Portable SSD with 1TB capacity, USB 3.2",154.44,Each,S138,KeyTech Inc.,Germany,"116 Main Street, Hamburg, Germany",14,46,288,EURO,Case Logic
+P_0117,Ergonomic Keyboard,IT Accessories,1080p HD webcam with privacy shutter,239.18,Each,S191,SpeedStorage,Germany,"100 Main Street, Dortmund, Germany",1,10,808,EURO,Bti
+P_0118,Standing Desk,Office,USB-C docking station with multiple ports,104.1,Each,S199,SpeedStorage,Germany,"165 Main Street, Düsseldorf, Germany",12,48,919,EURO,3dconnexion
+P_0119,Webcam HD,IT Accessories,Wireless mouse with multi-device connectivity,101.85,Each,S109,DeskoFlex,Germany,"10 Main Street, Stuttgart, Germany",9,39,607,EURO,base Xx
+P_0120,Ergonomic Keyboard,IT Accessories,"Portable SSD with 1TB capacity, USB 3.2",29.62,Each,S118,SpeedStorage,Germany,"130 Main Street, Frankfurt, Germany",1,30,436,EURO,Acer
+P_0121,USB-C Docking Station,IT Accessories,"Portable SSD with 1TB capacity, USB 3.2",174.54,Each,S190,SpeedStorage,Germany,"124 Main Street, Frankfurt, Germany",2,35,41,EURO,Case Logic
+P_0122,Wireless Mouse,IT Accessories,Bluetooth ergonomic keyboard with customizable keys,272.09,Each,S183,DeskoFlex,Germany,"66 Main Street, Frankfurt, Germany",8,33,221,EURO,3m
+P_0123,Portable SSD,IT Accessories,"Portable SSD with 1TB capacity, USB 3.2",181.95,Each,S153,QuietSpace,Germany,"128 Main Street, Stuttgart, Germany",9,38,194,EURO,base Xx
+P_0124,Wireless Mouse,IT Accessories,Bluetooth ergonomic keyboard with customizable keys,240.69,Each,S151,VisionCam,Germany,"113 Main Street, Dortmund, Germany",8,5,8,EURO,3dconnexion
+P_0125,Monitor Stand,IT Accessories,Adjustable height standing desk with memory settings,198.67,Each,S197,DeskoFlex,Germany,"141 Main Street, Cologne, Germany",7,23,124,EURO,Acer
+P_0126,Monitor Stand,IT Accessories,"Portable SSD with 1TB capacity, USB 3.2",235.48,Each,S160,MouseWare,Germany,"124 Main Street, Stuttgart, Germany",8,40,421,EURO,3m
+P_0127,USB-C Docking Station,IT Accessories,Wireless mouse with multi-device connectivity,49.77,Each,S168,MouseWare,Germany,"159 Main Street, Dortmund, Germany",12,10,286,EURO,3m
+P_0128,Ergonomic Keyboard,IT Accessories,Wireless mouse with multi-device connectivity,246.11,Each,S194,SpeedStorage,Germany,"85 Main Street, Dortmund, Germany",11,26,768,EURO,Acer
+P_0129,Noise Cancelling Headphones,IT Accessories,USB-C docking station with multiple ports,44.41,Each,S139,StandSolutions,Germany,"88 Main Street, Stuttgart, Germany",13,41,350,EURO,Articona
+P_0130,Ergonomic Keyboard,IT Accessories,"Portable SSD with 1TB capacity, USB 3.2",66.83,Each,S196,ConnectTech,Germany,"183 Main Street, Leipzig, Germany",4,29,814,EURO,3dconnexion
+P_0131,USB-C Docking Station,IT Accessories,Metal monitor stand with storage drawer,20.54,Each,S191,QuietSpace,Germany,"173 Main Street, Berlin, Germany",5,10,270,EURO,Articona
+P_0132,Portable SSD,IT Accessories,"Portable SSD with 1TB capacity, USB 3.2",218.23,Each,S179,StandSolutions,Germany,"75 Main Street, Leipzig, Germany",11,44,209,EURO,Bti
+P_0133,Portable SSD,IT Accessories,"Portable SSD with 1TB capacity, USB 3.2",181.71,Each,S164,StandSolutions,Germany,"42 Main Street, Leipzig, Germany",2,9,947,EURO,Belkin
+P_0134,Wireless Mouse,IT Accessories,Metal monitor stand with storage drawer,74.31,Each,S128,StandSolutions,Germany,"105 Main Street, Essen, Germany",10,36,443,EURO,base Xx
+P_0135,Noise Cancelling Headphones,IT Accessories,Adjustable height standing desk with memory settings,153.69,Each,S114,ConnectTech,Germany,"6 Main Street, Leipzig, Germany",6,16,64,EURO,3m
+P_0136,Monitor Stand,IT Accessories,Over-ear noise cancelling headphones with microphone,160.52,Each,S133,KeyTech Inc.,Germany,"91 Main Street, Dortmund, Germany",4,41,906,EURO,Bti
+P_0137,Wireless Mouse,IT Accessories,Bluetooth ergonomic keyboard with customizable keys,110.32,Each,S113,QuietSpace,Germany,"88 Main Street, Frankfurt, Germany",5,11,71,EURO,Apple
+P_0138,Wireless Mouse,IT Accessories,USB-C docking station with multiple ports,147.25,Each,S133,MouseWare,Germany,"55 Main Street, Cologne, Germany",2,39,498,EURO,Belkin
+P_0139,Standing Desk,IT Accessories,"Portable SSD with 1TB capacity, USB 3.2",24.45,Each,S181,StandSolutions,Germany,"89 Main Street, Frankfurt, Germany",5,22,51,EURO,3m
+P_0140,Monitor Stand,IT Accessories,1080p HD webcam with privacy shutter,216.88,Each,S151,StandSolutions,Germany,"90 Main Street, Cologne, Germany",2,36,547,EURO,3dconnexion
+P_0141,Ergonomic Keyboard,IT Accessories,1080p HD webcam with privacy shutter,89.49,Each,S190,MouseWare,Germany,"44 Main Street, Berlin, Germany",12,27,872,EURO,Logitech
+P_0142,Standing Desk,Office,Bluetooth ergonomic keyboard with customizable keys,63.66,Each,S155,SpeedStorage,Germany,"138 Main Street, Cologne, Germany",7,19,117,EURO,Articona
+P_0143,Monitor Stand,IT Accessories,Metal monitor stand with storage drawer,69.27,Each,S168,KeyTech Inc.,Germany,"11 Main Street, Cologne, Germany",10,37,685,EURO,Bti
+P_0144,Ergonomic Keyboard,IT Accessories,USB-C docking station with multiple ports,112,Each,S195,MouseWare,Germany,"187 Main Street, Dortmund, Germany",13,18,705,EURO,base Xx
+P_0145,Noise Cancelling Headphones,IT Accessories,Bluetooth ergonomic keyboard with customizable keys,297.68,Each,S184,StandSolutions,Germany,"51 Main Street, Stuttgart, Germany",9,37,528,EURO,Logitech
