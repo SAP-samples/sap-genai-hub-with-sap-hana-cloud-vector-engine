@@ -1,0 +1,9 @@
+Product ID,Product Name,Category,Description,Unit Price,Unit of Measure,Supplier ID,Supplier Name,Lead Time (Days),Minimum Order Quantity,Currency
+P_0046,Ergonomic Keyboard,Electronics,Bluetooth ergonomic keyboard with customizable keys,85.0,Each,S105,KeyTech Inc.,3,20,USD
+P_0067,Standing Desk,Office Furniture,Adjustable height standing desk with memory settings,300.0,Each,S106,DeskoFlex,14,5,USD
+P_0130,Wireless Mouse,Electronics,Wireless mouse with multi-device connectivity,50.0,Each,S107,MouseWare,2,10,USD
+P_0151,Monitor Stand,Office Accessories,Metal monitor stand with storage drawer,40.0,Each,S108,StandSolutions,5,15,USD
+P_0188,USB-C Docking Station,Electronics,USB-C docking station with multiple ports,120.0,Each,S109,ConnectTech,7,10,USD
+P_0197,Noise Cancelling Headphones,Electronics,Over-ear noise cancelling headphones with microphone,200.0,Each,S110,QuietSpace,3,10,USD
+P_0230,Portable SSD,Electronics,"Portable SSD with 1TB capacity, USB 3.2",150.0,Each,S111,SpeedStorage,4,5,USD
+P_0242,Webcam HD,Electronics,1080p HD webcam with privacy shutter,90.0,Each,S112,VisionCam,2,20,USD

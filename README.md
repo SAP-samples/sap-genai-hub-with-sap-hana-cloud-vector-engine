@@ -1,18 +1,4 @@
-# SAP-samples/repository-template
-This default template for SAP Samples repositories includes files for README, LICENSE, and .reuse/dep5. All repositories on github.com/SAP-samples will be created based on this template.
-
-# Containing Files
-
-1. The LICENSE file:
-In most cases, the license for SAP sample projects is `Apache 2.0`.
-
-2. The .reuse/dep5 file: 
-The [Reuse Tool](https://reuse.software/) must be used for your samples project. You can find the .reuse/dep5 in the project initial. Please replace the parts inside the single angle quotation marks < > by the specific information for your repository.
-
-3. The README.md file (this file):
-Please edit this file as it is the primary description file for your project. You can find some placeholder titles for sections below.
-
-# [Title]
+# SAP HANA Cloud with Vector Engine and GenAI Hub
 <!-- Please include descriptive title -->
 
 <!--- Register repository https://api.reuse.software/register, then add REUSE badge:
@@ -20,22 +6,47 @@ Please edit this file as it is the primary description file for your project. Yo
 -->
 
 ## Description
-<!-- Please include SEO-friendly description -->
+In this use case, we will embark on a journey to explore the capabilities of SAP HANA Cloud vector engine, SAP Generative AI Hub and the Python Langchain Framework. The goal is to equip you with the knowledge and skills to handle unstructured and semi-structured data and build efficient applications.
+
+![](./images/vectordb_001.png)
+
 
 ## Requirements
 
-## Download and Installation
+SAP HANA Cloud Introduction Academy or Basic Trial registration.
+
+## Setup and Installation
+
+Beginning with setup via SAP Business Application Studio (BAS) and Jupyter notebook provided, execute the Python code installing libraries needed.
+
+- **hdbcli**
+
+> The Python Database API Specification v2.0 (PEP 249) defines a set of methods that provides a consistent database interface independent of the actual database being used. The Python extension module for SAP HANA implements PEP 249. Once you install the module, you can access and change the information in SAP HANA databases from Python.
+
+- **generative-ai-hub-sdk**
+
+> With this SAP python SDK you can leverage the power of generative Models like ChatGPT available in SAP Generative AI Hub.
+
+- **Folium**
+
+> Folium builds on the data wrangling strengths of the Python ecosystem and the mapping strengths of the Leaflet.js library. Manipulate your data in Python, then visualize it in a Leaflet map via folium.
+
+- **Generative AI Hub configuration**
+  
+> Configure client access to SAP BTP Generative AI foundation-models.
+
+</br>
+
+> **Note** Jupyter Notebook kernel needs a restart after installation of libraries.
+
+</br>
 
 ## Known Issues
-<!-- You may simply state "No known issues. -->
+No known issues.
 
-## How to obtain support
-[Create an issue](https://github.com/SAP-samples/<repository-name>/issues) in this repository if you find a bug or have questions about the content.
- 
-For additional support, [ask a question in SAP Community](https://answers.sap.com/questions/ask.html).
 
 ## Contributing
-If you wish to contribute code, offer fixes or improvements, please send a pull request. Due to legal reasons, contributors will be asked to accept a DCO when they create the first pull request to this project. This happens in an automated fashion during the submission process. SAP uses [the standard DCO text of the Linux Foundation](https://developercertificate.org/).
+We currently do not accept community contributions.
 
 ## License
 Copyright (c) 2024 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSE) file.
