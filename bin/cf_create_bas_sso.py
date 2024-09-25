@@ -20,12 +20,12 @@ def get_service_key(service_name, service_key_name, output_file):
         get_key_command = ["cf", "service-key", service_name, service_key_name]
         result = subprocess.run(get_key_command, capture_output=True, text=True, check=True)
         output = result.stdout
-        print(output)
+        
         
         # Extract the JSON part of the output
         start_index = output.find("{")
         service_key_json = output[start_index:] if start_index != -1 else None
-        # print(service_key_json)
+        
 
         if not service_key_json:
             print("Error: Service key JSON not found.")
