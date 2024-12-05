@@ -1,10 +1,5 @@
-genai_hub_env/
+gen-ai-orch-venv/
 data/new_product_headers.csv
 orchestration-service.ipynb
-data/cv.txt
 orchestration-service-update.ipynb
 .DS_Store
-GenAI_orchastration_1.ipynb
-GenAI_orchastration_2.ipynb
-genAI_orchastration.ipynb
-genAI_orchastration.ipynb
