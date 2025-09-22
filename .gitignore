@@ -1,4 +1,4 @@
-genai_hub_env/
+genai-hub-env/
 data/new_product_headers.csv
 orchestration-service.ipynb
 data/cv.txt
@@ -8,3 +8,7 @@ GenAI_orchastration_1.ipynb
 GenAI_orchastration_2.ipynb
 genAI_orchastration.ipynb
 genAI_orchastration.ipynb
+GenAI_orchestration_dev.ipynb
+data/productModelOrchConfig_1.json
+orchestration-service-products.ipynb
+__pycache__/tools.cpython-312.pyc
