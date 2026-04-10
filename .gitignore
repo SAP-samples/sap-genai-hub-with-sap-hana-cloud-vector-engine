@@ -13,3 +13,5 @@ GenAI_orchestration_dev.ipynb
 data/productModelOrchConfig_1.json
 orchestration-service-products.ipynb
 __pycache__/tools.cpython-312.pyc
+GenAI_orchestration.ipynb
+FraudDetection_AutoML.ipynb
